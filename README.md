@@ -1,3 +1,7 @@
+# AWT_Basic_Calculator
+  <img src="calculator.png"
+     alt="calculator.png"
+     style="float: left; margin-right: 10px;" />
 # JAVA LAB
  ## lab 1
      Circle in c
